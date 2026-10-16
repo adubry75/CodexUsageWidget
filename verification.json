@@ -1,0 +1,30 @@
+{
+    "Background":  "LinearGradientBrush",
+    "Shadow":  "DropShadowEffect",
+    "Glow":  "DropShadowEffect",
+    "BarGradient":  "LinearGradientBrush",
+    "Skins":  [
+                  "Clay",
+                  "Midnight",
+                  "Synthwave",
+                  "Nord",
+                  "Terminal",
+                  "Paper"
+              ],
+    "MenuItems":  [
+                      "Refresh now",
+                      "Skin",
+                      "Compact mode",
+                      "Always on top",
+                      "Poll every",
+                      "Opacity",
+                      "Snap to",
+                      "Start with Windows",
+                      "Open log",
+                      "Hide to tray",
+                      "Exit"
+                  ],
+    "Error":  "",
+    "FiveHour":  "4%",
+    "Weekly":  "1%"
+}

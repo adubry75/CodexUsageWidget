@@ -1,0 +1,13 @@
+# runtime state, written beside the script at run time
+*.log
+CodexUsageWidget.json
+
+# local launcher shortcut (contains absolute paths for one machine)
+*.lnk
+
+# editor / OS noise
+.vs/
+*.bak
+*.previous
+Thumbs.db
+desktop.ini
